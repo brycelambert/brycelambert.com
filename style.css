@@ -27,17 +27,17 @@ h1{
 		font-weight: 300;
 		margin-left: .6em;
 		display: inline-block;
-		margin-top: .67em;
+		line-height: 1.5em;
 }
 
 ul.links {
 		text-align: right;
 		float: right;
-		margin: 1.5em 2.5em 0 0;
+		margin: .9em 2.5em .9em 0;
 }
 
 ul.links li {
-		font-size: 1.5em;
+		font-size: 1.4em;
 		line-height: 1.7em;
 		list-style-type: none;
 		font-family: museo-slab,serif;
