@@ -1,6 +1,6 @@
 body {
 		background: #fff url(bg.jpg) center center fixed no-repeat;
-		font-family: lato, serif;
+		font-family: 'lato', serif;
 		font-weight: 400;
 		margin:0;
 		padding: 0;
@@ -40,7 +40,7 @@ ul.links li {
 		font-size: 1.4em;
 		line-height: 1.7em;
 		list-style-type: none;
-		font-family: lato, serif;
+		font-family: 'lato', serif;
 		font-weight: 200;
 }
 
