@@ -1,7 +1,7 @@
 body {
 		background: #fff url(bg.jpg) center center fixed no-repeat;
-		font-family: museo-slab,serif;
-		font-weight: 500;
+		font-family: lato, serif;
+		font-weight: 400;
 		margin:0;
 		padding: 0;
 		background-size: cover;
@@ -40,8 +40,8 @@ ul.links li {
 		font-size: 1.4em;
 		line-height: 1.7em;
 		list-style-type: none;
-		font-family: museo-slab,serif;
-		font-weight: 300;
+		font-family: lato, serif;
+		font-weight: 200;
 }
 
 a:link { color: #4b4b4b; text-decoration: none; }
@@ -54,5 +54,3 @@ a:hover { color: #4b4b4b; border-bottom: 4px solid #bf503f; }
 		color: #bf503f;
 		font-weight: 500;
  }
-
-.typekit-badge { display:none !important; }
